@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **amiteshverma1700@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2d3pJKNkbIqBuZFDp4lWHH&ust=1749577897803000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPic69rz5I0DFQAAAAAdAAAAABAE">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amitesh ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitesh ." height="30" width="40" /></a>
