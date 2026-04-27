@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 What I'm Working On<br>- Improving backend performance and API efficiency  <br>- Strengthening problem-solving skills (LeetCode)  <br>- Exploring system design fundamentals <br><br>🎯 Goals<br>- Crack a product-based SDE role  <br>- Build scalable, production-level backend systems  <br>- Improve system design and optimization skills</p>
+<p align="left">💻 What I'm Working On<br>- Improving backend performance and API efficiency  <br>- Strengthening problem-solving skills (LeetCode)  <br>- Exploring system design fundamentals <br><br>🎯 Goals<br>- Build scalable, production-level backend systems  <br>- Improve system design and optimization skills</p>
 
 ###
 
